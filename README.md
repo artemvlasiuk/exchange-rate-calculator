@@ -17,7 +17,7 @@ A simple currency converter built with React, Typescript, HTML, and CSS. The app
 
 - The app includes separate input and select elements for each currency.
 - Users can input the amount to convert, and the conversion is recalculated based on the selected currencies.
-- The select dropdown includes at least three currencies: UAH, USD, and EUR.
+- The select dropdown includes all available currencies.
 - Conversion works both ways: changing the amount or currency in either input will automatically recalculate the corresponding value in the other input.
 
 ### Additional Features
